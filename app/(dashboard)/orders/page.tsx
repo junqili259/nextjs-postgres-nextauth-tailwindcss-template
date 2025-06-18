@@ -8,21 +8,12 @@ import {
 
 export default function CustomersPage() {
   return (
-    <>
     <Card>
       <CardHeader>
-        <CardTitle>Customers</CardTitle>
+        <CardTitle>Orders</CardTitle>
         <CardDescription>View all customers and their orders</CardDescription>
       </CardHeader>
       <CardContent></CardContent>
     </Card>
-    <Card>
-      <CardHeader>
-        <CardTitle>Customers</CardTitle>
-        <CardDescription>View all customers and their orders</CardDescription>
-      </CardHeader>
-      <CardContent></CardContent>
-    </Card>
-    </>
   );
 }
